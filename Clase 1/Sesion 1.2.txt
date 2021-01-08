@@ -1,0 +1,11 @@
+¿Qué necesito para programar una página web?.
+	• Editor de código / IDE
+	• Navegador de internet
+	• Lenguaje de marcado de hypertexto (HTML)
+
+Pasos para maquetar una web.
+	• Idea
+	• Wireframe - Primer diseño a lápiz del sitio
+	• Mockup - Darle colores al wireframe - Photoshop, Corel, Ilustrator, Paint
+	• Prototipo - Paso previo para el maquetado de un sitio web. - Escala, Adobe XD
+	• Maquetado - Pasar tu diseño a código funcional.

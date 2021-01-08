@@ -1,0 +1,40 @@
+Introducción a la web
+	• Internet: Es la red más grande del mundo, a través de la cual se pueden interconectar dispositivos electrónicos y hacer intercambio de su información.
+	• WEB: Protocolos y formas de transferencia de información entre documentos.
+
+Página WEB
+	• Documento para compartir imagenes, textos, audios o videos a través de internet.
+	https://disegit.com/#
+	https://pimexing.com/
+
+Sitio WEB
+	• Conjunto de páginas web alojadas en un mismo hosting / servidor.
+	https://the-crafters.com/index.php
+	https://keypro.com.mx/
+
+HOSTING / SERVIDOR
+	• Computadora en donde se almacena la información que existe en internet.
+
+DOMINIO
+	• Dirección asociada a tu sitio web. Es único en el mundo para cada sitio web.
+
+TIPOS DE SISTEMAS WEB
+	• Páginas web
+	• Sitios web
+	• Juegos
+	• Plataformas
+		https://github.com/
+	• Tiendas
+		https://www.mercadolibre.com.mx/
+	• Aplicaciones de escritorio - Framework Electron
+		• Spotify
+		• Discord
+		• Slack
+	• Aplicaciones móviles - Ionic
+		• Clash of Clans
+	• Aplicaciones progresivas
+		• Facebook, Amazon, Github
+	• Sistemas personalizados
+		• 
+
+	
