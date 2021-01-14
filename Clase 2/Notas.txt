@@ -1,0 +1,30 @@
+Clase 2
+- Introduccion al diseño web, herramientas principales
+ • Paint
+ • Paint 3D
+ • Adobe Photoshop
+ • Adobde Ilustrator
+ • Adobe XD
+ • Figma
+ • Hojas de papel
+ • Marvelapp
+ • wireframe.cc
+
+- La primera idea: el wireframe.
+ • Paso de la idea incial a papel y lápiz.
+ • Objetivo: Poder plasmar en físico nuestra idea de diseño.
+
+- Coloreando la interfaz: el mockup o boceto. 
+ • ¿Qué es?: Es una representación gráfica siguiente al wireframe que nos permite definir los colores y tipografías que va a contenter nuestro diseño final.
+ • Objetivo: Entender de la forma más aproximada posible cómo va a quedar nuestro diseño en un paso final.
+ • Herramientas:
+  - Photoshop
+  - Marvelapp
+  - Adobe xd
+
+- Dando vida a nuestro diseño: el prototipo.
+ • ¿Qué es?: Es una representación grafica con funcionalidad limitada de nuestro sitio web.
+ • Objetivo: Es lograr visualizar en la computadora una aproximáción con funcionalidades básicas del diseño final del sitio.
+ • Herramientas:
+  - Figma
+  - Adobe XD
