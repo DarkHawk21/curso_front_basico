@@ -1,4 +1,4 @@
-- Terminar el mockup de la página web en Adobe XD
 - Buscar 10 combinación de teclas para ser más productivo con visual studio code
 - Buscar al menos 5 meta etiquetas con la explicacion de cada una
+- Terminar el mockup de la página web en Adobe XD
 - Buscar al menos 5 combinaciones emmet para la escritura de HTML
