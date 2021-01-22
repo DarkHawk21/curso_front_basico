@@ -28,7 +28,7 @@ Cada comando escrito tiene una función distinta y se pueden combinar entre sí 
 
 #### Combinación de comandos
 
-Para realizar una combinación compleja o más avanzada, hacemos uso de el símbolo **">" (Mayor que)** 
+Para realizar una combinación compleja o más avanzada, hacemos uso del símbolo **">" (Mayor que)** 
 
 Ejemplo:
 

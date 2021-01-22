@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    <!-- Formularios -->
+    <!-- 
+        Los formularios son la parte de entrada o de interacción entre el sitio web y el usuario.
+        Através de ellos enviamos información a nuestro servidor para que la almacene o haga cualquier interacción con ella.
+    -->
+    <!--
+        Para que un formulario funcione de forma correcta, debe utilizar dos propiedades de forma obligatoria:
+        • action="" | la página hacia donde será dirigida nuestra petición hecha por el formulario.
+        • method="" | la forma en cómo se va a realizar nuestra petición hacia la página de dirección
+     -->
+    <form action="#" method="" enctype="text/plain">
+        <!-- Etiquetas de campos -->
+        <label for="nombre">Icono</label>
+
+        <!-- Entradas de datos -->
+        <input type="text" name="nombre" value="Valor por defecto" required>
+        <input type="password" name="contrasena" placeholder="Aquí tu contraseña">
+        <input type="email" name="email">
+        <input type="file" name="">
+        <input type="number" name="">
+        <input type="date" name="">
+        <input type="time" name="">
+        <input type="datetime" name="">
+        <input type="checkbox" name="">
+        <input type="radio" name="">
+        <input type="range" name="">
+        <input type="hidden" name="">
+        <input type="color" name="">
+
+        <!-- Entrada especial de datos para grandes textos -->
+        <textarea></textarea>
+
+        <!-- Listas desplegables -->
+        <select>
+            <option value="">Mexico</option>
+            <option value="">Panamá</option>
+            <option value="">EUA</option>
+        </select>
+
+        <!-- Botónes de acción -->
+        <button type="button">Icono</button>
+        <button type="submit">
+            <h2>Textos</h2>
+        </button>
+
+        <!-- Inputs de acción del formulario -->
+        <input type="reset">
+        <input type="button" name="" value="Botón1">
+        <input type="submit" value="<h2>Textos</h2>">
+    </form>
+</body>
+</html>
