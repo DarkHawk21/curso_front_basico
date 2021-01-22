@@ -1,4 +1,12 @@
 - Buscar 10 combinación de teclas para ser más productivo con visual studio code
 - Buscar al menos 5 meta etiquetas con la explicacion de cada una
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Keywords" content="carro, camioneta"/>
+    <meta name="description" content=""/>
+    <meta http-equiv="refresh" content="10" url="https://www.google.com"/>
+    <meta http-equiv="cache-control" content="no-cache"/>
 - Terminar el mockup de la página web en Adobe XD
+
+-- Pendiente --
 - Buscar al menos 5 combinaciones emmet para la escritura de HTML
