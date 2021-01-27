@@ -1,0 +1,97 @@
+/* Reglas CSS */
+/* <selector> { */
+    /* Aquí van las propiedades para esa etiqueta. */
+    /* <Nombre de la propiedad> : <Parámetro o atributo de la propiedad>; */
+/* } */
+
+/* Ejemplo de regla CSS */
+/* body {
+    background: orange;
+} */
+
+/* SELECTORES BÁSICOS */
+    /* * { */
+        /* Selector universal que permite colorar unos estilos a todos los elementos de nuestro documento HTML. */
+        /* background: orange; */
+        /* margin: 0; */
+        /* padding: 0; */
+        /* box-sizing: border-box; */
+        /* font-family: 'Courier New', Courier, monospace; */
+    /* } */
+
+    /* Selector de etiqueta, que hace referencia a nuestros elementos de HTML. */
+    /* body {
+
+    }
+
+    h1 {
+
+    }
+
+    p {
+
+    }
+
+    div {
+
+    }
+
+    i {
+
+    }
+
+    form {
+
+    } */
+
+    /* Selectores de clase */
+    /* .titulo {
+        background: orange;
+    }
+
+    .rojo {
+        background: red;
+    }
+
+    .azul {
+        background: blue;
+    }
+
+    .amarillo {
+        background: yellow;
+    }
+
+    .titulo.rojo {
+        background: pink;
+    } */
+
+    .alerta {
+        width: 100%;
+        color: white;
+        background: black;
+    }
+
+    .alerta.rojo.verde {
+        background: brown;
+    }
+
+    .rojo {
+        background: red;
+    }
+
+    .verde {
+        background: green;
+    }
+
+    .amarillo {
+        background: yellow;
+    }
+
+    .amarillo.error {
+        background: orange;
+    }
+
+    /* Selectores de ID */
+    #alertaMorada {
+        background: rebeccapurple;
+    }
